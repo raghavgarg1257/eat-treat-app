@@ -1,0 +1,3 @@
+// ACTIONS
+export const YOUTUBE_VIDEO = "YOUTUBE_VIDEO";
+export const ACTIVE_VIDEO = "ACTIVE_VIDEO";
